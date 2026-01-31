@@ -28,5 +28,5 @@ I am a professional software engineer specializing in building high-performance 
 ---
 
 ### 📫 Contact for Business
-* **Email:** [Điền email công việc của bạn vào đây - NÊN DÙNG EMAIL TRÙNG VỚI EMAIL ĐĂNG KÝ PINGPONG]
+* **Email:** [7f5ad4946@mozmail.com]
 * **Location:** Da Nang, Vietnam
