@@ -1,7 +1,13 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BryGuerrerob1/BryGuerrerob1/3cbee663b771ee5fd708f7afa92b8233fc808593/logo.png" width="180" alt="BG Solutions Logo" />
+  <h1>Bryan Guerrerob</h1>
+  <h3>Senior Full-Stack Developer & AI Solutions Architect</h3>
+</div>
+
 ---
 
 ### 👋 About Me
-I am a professional software engineer specializing in building high-performance web applications, distributed systems, and AI-driven automation tools for the Digital Advertising industry. My focus is on creating scalable architectures that integrate Machine Learning with web technologies.
+I am a professional software engineer (operating under the brand **BG Solutions**) specializing in building high-performance web applications, distributed systems, and AI-driven automation tools. My focus is on creating scalable architectures that integrate Machine Learning with web technologies.
 
 ---
 
