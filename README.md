@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BryGuerrerob1/BryGuerrerob1/3cbee663b771ee5fd708f7afa92b8233fc808593/logo.png" width="180" alt="BG Solutions Logo" />
-  <h1>BryGuerrerob1</h1>
-  <h3>Senior Full-Stack Developer & AI Solutions Architect</h3>
-</div>
-
 ---
 
 ### 👋 About Me
