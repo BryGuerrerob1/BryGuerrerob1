@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there, I'm BryGuerrerob1 👋
+#### 🚀 Senior Full-Stack Developer & AI Solutions Architect
 
-<!--
-**BryGuerrerob1/BryGuerrerob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional software engineer specializing in building high-performance web applications, distributed systems, and AI-driven automation tools for the Digital Advertising industry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Services & Expertise
+* **Web Application Development:** Building scalable apps using Next.js, React, and Node.js.
+* **AI Integration:** Deploying WebLLM, WASM, and Machine Learning models on browser environments.
+* **Ad-Tech Solutions:** Developing optimization algorithms for advertising networks (AdTech).
+* **System Architecture:** Managing cloud infrastructure on Vercel, Railway, and AWS.
+
+---
+
+### 🛠 Tech Stack
+* **Languages:** TypeScript, JavaScript, Python, Rust (WASM).
+* **Frontend:** Next.js 14+, React, Tailwind CSS.
+* **Backend & Data:** Node.js, Redis, PostgreSQL.
+* **AI/ML:** PyTorch, TensorFlow, WebAssembly.
+
+---
+
+### 📈 Current Projects
+* **Omni-Grid:** A distributed computing network for AI inference.
+* **High-Performance Web Clones:** Optimized e-commerce and media streaming architectures.
+
+---
+
+### 📫 Contact for Business
+* **Email:** [Điền email công việc của bạn vào đây - NÊN DÙNG EMAIL TRÙNG VỚI EMAIL ĐĂNG KÝ PINGPONG]
+* **Location:** Da Nang, Vietnam
