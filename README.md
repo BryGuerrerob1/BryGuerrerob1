@@ -8,7 +8,7 @@ I am a professional software engineer (operating under the brand **BG Solutions*
 
 ### 💼 Services & Expertise
 * **Web Application Development:** Building scalable apps using Next.js, React, and Node.js.
-* **AI Integration:** Deploying WebLLM, WASM, and Machine Learning models on environments.
+* **AI Integration:** Deploying WebLLM, WASM, and Machine Learning models on realreal environments.
 * **Ad-Tech Solutions:** Developing optimization algorithms for advertising networks (AdTech) and traffic analysis.
 * **System Architecture:** Managing cloud infrastructure on Vercel, Railway, and AWS.
 
