@@ -30,4 +30,3 @@ I am a professional software engineer (operating under the brand **BG Solutions*
 
 ### 📫 Contact for Business
 * **Email:** [7f5ad4946@mozmail.com](mailto:7f5ad4946@mozmail.com) |  [mrjotika@gmail.com](mailto:mrjotika@gmail.com)
-* **Location:** Da Nang, Vietnam
