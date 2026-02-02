@@ -2,13 +2,13 @@
 ---
 
 ### 👋 About Me
-I am a professional software engineer (operating under the brand **BG Solutions**) specializing in building high-performance web applications, distributed systems, and AI-driven automation tools. My focus is on creating scalable architectures that integrate Machine Learning with web technologies.
+I am a professional software engineer (operating under the brand **BG Solutions**) specializing in building high-performance web applications, distributed systems, and AI-driven. My focus is on creating scalable architectures that integrate Machine Learning with web technologies.
 
 ---
 
 ### 💼 Services & Expertise
 * **Web Application Development:** Building scalable apps using Next.js, React, and Node.js.
-* **AI Integration:** Deploying WebLLM, WASM, and Machine Learning models on browser environments.
+* **AI Integration:** Deploying WebLLM, WASM, and Machine Learning models on environments.
 * **Ad-Tech Solutions:** Developing optimization algorithms for advertising networks (AdTech) and traffic analysis.
 * **System Architecture:** Managing cloud infrastructure on Vercel, Railway, and AWS.
 
@@ -23,7 +23,7 @@ I am a professional software engineer (operating under the brand **BG Solutions*
 ---
 
 ### 📈 Current Projects
-* **Omni-Grid:** A distributed computing network for AI inference and data processing.
+* **Omni-Grigg:** A distributed computing network for AI inference and data processing.
 * **High-Performance Architectures:** Optimized e-commerce and media streaming system designs.
 
 ---
